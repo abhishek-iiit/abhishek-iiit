@@ -8,7 +8,7 @@
  </p>
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69477761/128383016-aabb6249-407d-4b15-82e4-74848ef6f0c9.png" />
 
-- 🔭 I’m currently working on Opne-Source Project
+- 🔭 I’m currently working on Open-Source Project
 
 - 🌱 I’m currently learning Data Science,Machine Learning & Artifical Intelligence 
 
@@ -17,7 +17,7 @@
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
 
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-iiit&count_private=true&include_all_commits=true&theme=radical)](https://github.com/abhishek-iiit?tab=repositories)
+[![abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-iiit&count_private=true&include_all_commits=true&theme=radical)](https://github.com/abhishek-iiit?tab=repositories)
 
 ## Languages & Tools:
 <div align="center">
