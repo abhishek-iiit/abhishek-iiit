@@ -1,4 +1,4 @@
-<h1> Hello Contributors! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Contributors!
 <div align="center">
 <img src="bg_gif.gif" alt="cover" />
 </div>
