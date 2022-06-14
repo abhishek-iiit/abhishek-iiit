@@ -1,8 +1,7 @@
-<h1> Hello Contributors!
 <div align="center">
-<img src="bg_gif.gif" alt="cover" />
+ 
+![LinkedIn_Wallpaper](https://user-images.githubusercontent.com/69477761/173501673-f575def5-f4c6-489b-8c4f-5b875a964750.jpeg)
 </div>
-
 
 <h2> About Me </h2><img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="abhishek-iiit" />
  </p>
