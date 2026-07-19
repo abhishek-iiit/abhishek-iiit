@@ -75,16 +75,16 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-iiit&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Abhishek Jaiswal's GitHub stats: repositories, commits, stars, contributions"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-iiit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Abhishek Jaiswal's most used programming languages on GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-iiit&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Abhishek Jaiswal's GitHub stats: repositories, commits, stars, contributions"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-iiit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Abhishek Jaiswal's most used programming languages on GitHub"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-iiit&theme=tokyonight&hide_border=true" alt="Abhishek Jaiswal's GitHub contribution streak statistics"/>
+<img src="https://streak-stats.demolab.com/?user=abhishek-iiit&theme=tokyonight&hide_border=true" alt="Abhishek Jaiswal's GitHub contribution streak statistics"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-iiit&theme=tokyo-night&hide_border=true" alt="Abhishek Jaiswal's GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-iiit&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek Jaiswal's GitHub contribution activity graph"/>
 </div>
 
 <div align="center">
