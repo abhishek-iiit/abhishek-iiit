@@ -1,168 +1,156 @@
+<!-- SEO Meta: Abhishek Jaiswal | Software Developer | Python, Machine Learning, AI, Computer Vision Engineer | Elchemy | IIIT Bhubaneswar | Open Source Contributor India -->
+
 <div align="center">
 
-<!-- Animated typing intro (renders as an image, so it's SEO-crawlable via alt text and AEO-friendly as a clear statement) -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Abhishek+Jaiswal+%F0%9F%91%8B;Software+Developer+%40+Elchemy;Python+%7C+Machine+Learning+%7C+Computer+Vision;Open-Source+Contributor+from+India;Building+practical+AI+%26+Data+Science+projects&font=Fira%20Code&center=true&width=760&height=50&color=2E97F7&vCenter=true&size=24" alt="Typing animation: Abhishek Jaiswal, Software Developer at Elchemy, Python, Machine Learning, Computer Vision" />
+```
+     ▄▄▄       ▄▄▄▄    ██░ ██  ██▓  ██████  ██░ ██ ▓█████  ██ ▄█▀
+    ▒████▄    ▓█████▄ ▓██░ ██▒▓██▒▒██    ▒ ▓██░ ██▒▓█   ▀  ██▄█▒
+    ▒██  ▀█▄  ▒██▒ ▄██▒██▀▀██░▒██▒░ ▓██▄   ▒██▀▀██░▒███   ▓███▄░
+    ░██▄▄▄▄██ ▒██░█▀  ░▓█ ░██ ░██░  ▒   ██▒░▓█ ░██ ▒▓█  ▄ ▓██ █▄
+     ▓█   ▓██▒░▓█  ▀█▓░▓█▒░██▓░██░▒██████▒▒░▓█▒░██▓░▒████▒▒██▒ █▄
+     ▒▒   ▓▒█░░▒▓███▀▒ ▒ ░░▒░▒░▓  ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░░ ▒░ ░▒ ▒▒ ▓▒
+      ▒   ▒▒ ░▒░▒   ░  ▒ ░▒░ ░ ▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░ ░ ░  ░░ ░▒ ▒░
+```
 
-# Abhishek Jaiswal
-### Software Developer · Python & Machine Learning Engineer · Open-Source Contributor
+<h1>Hi, I'm Abhishek Jaiswal 👋</h1>
+<h3>Software Developer 🧑‍💻 | Python & AI/ML Enthusiast | Open Source Contributor</h3>
 
-<p>
-<a href="https://www.linkedin.com/in/abhishek-iiit/"><img src="https://img.shields.io/badge/LinkedIn-abhishek--iiit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhishek Jaiswal LinkedIn profile"/></a>
-<a href="mailto:abhishek-iiit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhishek Jaiswal"/></a>
-<a href="https://twitter.com/abhishek__iiit"><img src="https://img.shields.io/badge/Twitter-@abhishek__iiit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Abhishek Jaiswal Twitter/X profile"/></a>
-<a href="https://github.com/abhishek-iiit"><img src="https://img.shields.io/badge/GitHub-abhishek--iiit-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abhishek Jaiswal GitHub profile"/></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+intelligent+systems+with+Python+%F0%9F%90%8D;Computer+Vision+%7C+Machine+Learning+%7C+AI;Turning+coffee+into+scalable+code+%E2%98%95;Open+Source+is+my+playground+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=abhishek-iiit&label=Profile%20Views&color=2E97F7&style=flat-square" alt="Profile view counter for abhishek-iiit"/>
-<img src="https://img.shields.io/github/followers/abhishek-iiit?label=Followers&style=flat-square&color=2E97F7" alt="GitHub followers count for abhishek-iiit"/>
-<img src="https://img.shields.io/badge/Location-Gurgaon%2C_India-2E97F7?style=flat-square" alt="Location: Gurgaon, India"/>
-<img src="https://img.shields.io/badge/Company-Elchemy-2E97F7?style=flat-square" alt="Currently working at Elchemy"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=abhishek-iiit&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🧭 Quick Answer: Who is Abhishek Jaiswal?
+## 🧭 Who Am I? *(The 10-Second Answer)*
 
-> **Abhishek Jaiswal (`abhishek-iiit`)** is a Software Developer based in Gurgaon, India, currently working at **Elchemy**. He specializes in **Python, Machine Learning, and Computer Vision**, has published **78 public repositories** on GitHub, and is an active open-source contributor to organizations including **Wechaty**, **p-society**, and IIIT Bhubaneswar's **GeeksforGeeks (GfG-IIIT-Bh)** and **Entrepreneurship Cell** chapters.
+> **Abhishek Jaiswal** is a **Software Developer at [Elchemy](https://elchemy.com)** based in **Gurgaon, India** 🇮🇳, and an **IIIT Bhubaneswar** alumnus who builds production-grade software and experiments at the intersection of **Computer Vision, Machine Learning, and AI**. He's shipped everything from **contactless heart-rate estimation via video** to **OCR-powered image-to-speech converters** — no fancy hardware required, just clever code.
 
-*This summary is written in a direct Q&A style so search engines and AI answer engines (ChatGPT, Perplexity, Google AI Overviews) can extract it accurately when someone asks "Who is abhishek-iiit?" or "What does Abhishek Jaiswal work on?"*
+```python
+class AbhishekJaiswal:
+    def __init__(self):
+        self.role       = "Software Developer @ Elchemy"
+        self.location   = "Gurgaon, Haryana, India 🇮🇳"
+        self.education  = "IIIT Bhubaneswar"
+        self.languages  = ["Python", "PHP", "SQL"]
+        self.ml_stack   = ["NumPy", "Pandas", "scikit-learn", "OpenCV"]
+        self.interests  = ["Computer Vision", "AI/ML", "Open Source", "Tech Writing"]
+        self.fun_fact   = "I measured heart rates with nothing but a camera 🫀📷"
+
+    def say_hi(self):
+        return "Let's build something intelligent together! 🚀"
+```
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 **Currently working on:** Open-source projects in Python and applied Machine Learning
-- 🌱 **Currently learning:** Data Science, Machine Learning & Artificial Intelligence
-- 👯 **Open to collaborate on:** Machine Learning projects, technical writing / tech articles
-- 💬 **Ask me about:** Python, Computer Vision, OCR, Open Source, Freelance opportunities
-- 🎓 **Background:** IIIT Bhubaneswar (community involvement via GfG-IIIT-Bh and Entrepreneurship Cell)
-- 📍 **Based in:** Gurgaon, Haryana, India
-- 🏢 **Currently at:** [Elchemy](https://github.com/abhishek-iiit)
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / MySQL"/>
-
-**Data Science & Machine Learning**
-
-<img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Featured Projects *(Things I'm Proud Of)*
+
+| Project | What It Does | Why It's Cool |
+|---|---|---|
+| 🫀 [**Heart-Rate Estimation**](https://github.com/abhishek-iiit/Heart-Rate_Estimation) | Non-contact heart-rate measurement from a simple video upload | Medical-grade insight, **zero special equipment** — just Python + CV magic |
+| 🧑‍💼 [**Face Attendance System**](https://github.com/abhishek-iiit/Face-attendance-system) | Automated attendance tracking via facial recognition | Kills the paper register forever 📋❌ |
+| 🗣️ [**Image → Text → Speech**](https://github.com/abhishek-iiit/Image-to-text-Speech-converter) | OCR pipeline that converts images to text or spoken audio | Accessibility-first engineering ♿✨ |
+| 🏠 [**Real Estate Price Estimator**](https://github.com/abhishek-iiit/Real-Estates-Price-Estimator) | RandomForest-powered property price prediction | ML that answers "what's this house *really* worth?" |
+| 🎨 [**ArtCV**](https://github.com/abhishek-iiit/ArtCV) | Computer vision techniques that turn boring images into art | Where pixels meet Picasso 🖌️ |
+
+---
+
+## 🏆 GitHub Trophy Cabinet
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-iiit&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Abhishek Jaiswal's GitHub stats: repositories, commits, stars, contributions"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-iiit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Abhishek Jaiswal's most used programming languages on GitHub"/>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=abhishek-iiit&theme=tokyonight&hide_border=true" alt="Abhishek Jaiswal's GitHub contribution streak statistics"/>
-</div>
+🦈 **Pull Shark ×2** &nbsp;·&nbsp; 🤝 **Pair Extraordinaire ×3** &nbsp;·&nbsp; 🎲 **YOLO** &nbsp;·&nbsp; ⭐ **GitHub Pro** &nbsp;·&nbsp; 👨‍💻 **Developer Program Member**
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-iiit&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Abhishek Jaiswal's GitHub contribution activity graph"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek-iiit&theme=tokyonight&no-frame=true&row=1&column=7" alt="Abhishek Jaiswal's GitHub achievement trophies"/>
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-*A direct, factual list of pinned repositories — useful both for human recruiters skimming quickly and for AI systems summarizing project history.*
-
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| [**Heart-Rate_Estimation**](https://github.com/abhishek-iiit/Heart-Rate_Estimation) | Non-contact heart-rate measurement from a simple uploaded video — no special hardware required | Python, Computer Vision | ⭐ 6 |
-| [**Face-attendance-system**](https://github.com/abhishek-iiit/Face-attendance-system) | Facial-recognition-based attendance tracking for employees or students | Python, OpenCV | ⭐ 1 |
-| [**Image-to-text-Speech-converter**](https://github.com/abhishek-iiit/Image-to-text-Speech-converter) | OCR pipeline that converts image content into text or synthesized speech | Python, OCR | ⭐ 5 |
-| [**Real-Estates-Price-Estimator**](https://github.com/abhishek-iiit/Real-Estates-Price-Estimator) | Real-estate price prediction using a Random Forest Regressor model | Python, scikit-learn | – |
-| [**ArtCV**](https://github.com/abhishek-iiit/ArtCV) *(fork)* | Exploring computer-vision techniques to turn plain images into stylized art | Jupyter, Computer Vision | – |
-| [**RoadToAI-Series**](https://github.com/abhishek-iiit/RoadToAI-Series) *(fork)* | Workshop series materials for RoadToAI, run by MLSA France and India | Jupyter Notebook | ⭐ 1 |
-
-📁 **Browse the full catalog:** [78 repositories on GitHub](https://github.com/abhishek-iiit?tab=repositories)
-
----
-
-## 🏆 Achievements & Community
+## 📊 The Numbers Don't Lie
 
 <div align="center">
 
-![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png) ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-iiit&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-iiit&theme=redical&hide_border=true&area=true" alt="Contribution graph" width="95%" />
 
 </div>
 
-- 🥇 **Pair Extraordinaire** ×3 — collaborative co-authored commits
-- 🎯 **YOLO** — merged a PR without review
-- 🦈 **Pull Shark** ×2 — merged pull requests across repositories
-- ✅ **GitHub Developer Program Member**
+---
 
-**Organizations:**
+## 🌱 Currently
 
-<p>
-<a href="https://github.com/wechaty"><img src="https://avatars.githubusercontent.com/u/21285357?s=64&v=4" width="48" alt="Wechaty organization"/></a>
-<a href="https://github.com/p-society"><img src="https://avatars.githubusercontent.com/u/29895434?s=64&v=4" width="48" alt="p-society organization"/></a>
-<a href="https://github.com/GfG-IIIT-Bh"><img src="https://avatars.githubusercontent.com/u/72060714?s=64&v=4" width="48" alt="GeeksforGeeks IIIT Bhubaneswar chapter"/></a>
-<a href="https://github.com/Entrepreneurship-Cell-IIIT-Bh"><img src="https://avatars.githubusercontent.com/u/87860558?s=64&v=4" width="48" alt="Entrepreneurship Cell IIIT Bhubaneswar"/></a>
-</p>
+- 🔭 Building & shipping at **Elchemy**
+- 🧠 Deep-diving into **Data Science, Machine Learning & Artificial Intelligence**
+- 👯 Open to collaborating on **open-source projects & tech articles**
+- 💬 Ask me about **Python, Computer Vision, Open Source, or freelancing**
+- ⚡ Community roots: **Wechaty · P-Society · GeeksforGeeks IIIT-Bh · E-Cell IIIT-Bh**
 
 ---
 
-## ❓ Frequently Asked Questions
+## ❓ FAQ *(Answer-Engine Friendly)*
 
-*Structured Q&A to help both recruiters and AI answer engines quickly find the right facts.*
+<details>
+<summary><b>Who is Abhishek Jaiswal?</b></summary>
+<br>
+Abhishek Jaiswal (<code>@abhishek-iiit</code>) is a Software Developer at Elchemy in Gurgaon, India, specializing in Python, Machine Learning, and Computer Vision, with 78+ public repositories on GitHub.
+</details>
 
-**Q: What does Abhishek Jaiswal do?**
-A: He's a Software Developer at Elchemy, focused on Python development, Machine Learning, and Computer Vision projects.
+<details>
+<summary><b>What technologies does Abhishek work with?</b></summary>
+<br>
+Primarily Python, with a strong ML stack — NumPy, Pandas, scikit-learn, OpenCV — plus PHP and MySQL for backend work.
+</details>
 
-**Q: What is Abhishek's main tech stack?**
-A: Python, PHP, SQL/MySQL, NumPy, Pandas, scikit-learn, and OpenCV, primarily in Jupyter Notebook–based ML workflows.
-
-**Q: Where is Abhishek Jaiswal located?**
-A: Gurgaon, Haryana, India.
-
-**Q: Is Abhishek open to collaboration?**
-A: Yes — on Machine Learning projects and technical writing/tech articles. He's also open to freelance opportunities.
-
-**Q: Where can I contact Abhishek Jaiswal?**
-A: Via [email](mailto:abhishek-iiit@gmail.com), [LinkedIn](https://www.linkedin.com/in/abhishek-iiit/), or [Twitter/X](https://twitter.com/abhishek__iiit).
+<details>
+<summary><b>Is Abhishek open to collaboration?</b></summary>
+<br>
+Yes! He actively collaborates on open-source projects and technical writing. Reach out via LinkedIn, Twitter, or email below. 👇
+</details>
 
 ---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-iiit/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishek__iiit)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek-iiit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek-iiit)
 
-<a href="https://www.linkedin.com/in/abhishek-iiit/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abhishek Jaiswal on LinkedIn"/></a>
-<a href="mailto:abhishek-iiit@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhishek Jaiswal"/></a>
-<a href="https://twitter.com/abhishek__iiit"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow Abhishek Jaiswal on Twitter"/></a>
+<br>
 
-*⭐ If any of my repositories helped you, a star goes a long way — thanks for stopping by!*
+```
+┌─────────────────────────────────────────────────┐
+│  $ whoami                                       │
+│  > abhishek-iiit                                │
+│  $ status                                       │
+│  > 🎯 Focusing — building the future, one       │
+│    commit at a time.                            │
+└─────────────────────────────────────────────────┘
+```
+
+⭐ *If something here helped or inspired you, a star on my repos makes my day!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
